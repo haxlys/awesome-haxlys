@@ -17,11 +17,11 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 - [AI 앱, 채팅 UI, 워크플로 빌더 (12)](#ai-앱-채팅-ui-워크플로-빌더-12)
 - [MCP, 브라우저/데스크톱 자동화, 에이전트 도구 (23)](#mcp-브라우저-데스크톱-자동화-에이전트-도구-23)
 - [개발 생산성/CLI 도구 (1)](#개발-생산성-cli-도구-1)
-- [디자인, UI 생성, 프로토타이핑 (10)](#디자인-ui-생성-프로토타이핑-10)
+- [디자인, UI 생성, 프로토타이핑 (9)](#디자인-ui-생성-프로토타이핑-9)
 - [프론트엔드, 웹 프레임워크, 앱 라이브러리 (14)](#프론트엔드-웹-프레임워크-앱-라이브러리-14)
 - [보안, 평가, 관측성, 품질 (8)](#보안-평가-관측성-품질-8)
 - [학습, 연구, Awesome 목록, 참고자료 (9)](#학습-연구-awesome-목록-참고자료-9)
-- [네이티브, 미디어, 모바일/데스크톱 유틸리티 (11)](#네이티브-미디어-모바일-데스크톱-유틸리티-11)
+- [네이티브, 미디어, 모바일/데스크톱 유틸리티 (12)](#네이티브-미디어-모바일-데스크톱-유틸리티-12)
 - [법률, 금융, 크립토, 기타 (7)](#법률-금융-크립토-기타-7)
 
 ## 목록
@@ -212,11 +212,10 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 
 - 2025-11-11 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) (⭐ 77,910) - Go - Git 명령을 터미널 UI로 쉽게 다루는 도구
 
-### 디자인, UI 생성, 프로토타이핑 (10)
+### 디자인, UI 생성, 프로토타이핑 (9)
 
 - 2026-05-03 - [nexu-io/open-design](https://github.com/nexu-io/open-design) (⭐ 39,705) - TypeScript - 로컬 우선 방식의 오픈소스 AI 디자인 및 프로토타이핑 도구
 - 2026-04-27 - [penpot/penpot](https://github.com/penpot/penpot) (⭐ 47,532) - Clojure - 디자인과 코드 협업을 위한 오픈소스 디자인 도구
-- 2026-04-18 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (⭐ 18,039) - TypeScript - HTML로 영상을 렌더링하는 에이전트 친화 도구
 - 2026-04-14 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) (⭐ 4,987) - HTML - 시스템 아키텍처 다이어그램을 HTML/SVG로 생성하는 Claude AI 스킬
 - 2026-04-04 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) (⭐ 78,287) - Unknown - 코딩 에이전트가 UI를 맞춰 만들 수 있도록 DESIGN.md 예시를 모은 목록
 - 2026-03-20 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) (⭐ 78,258) - Python - 전문적인 UI/UX 제작을 돕는 AI 디자인 스킬
@@ -265,12 +264,13 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 - 2026-03-13 - [public-apis/public-apis](https://github.com/public-apis/public-apis) (⭐ 434,922) - Python - 무료 공개 API를 모은 목록
 - 2025-11-28 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) (⭐ 2,359) - Unknown - Gemini CLI 사용 팁 모음
 
-### 네이티브, 미디어, 모바일/데스크톱 유틸리티 (11)
+### 네이티브, 미디어, 모바일/데스크톱 유틸리티 (12)
 
 - 2026-05-13 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) (⭐ 140,929) - C - 안드로이드 기기 화면을 표시하고 제어하는 도구
 - 2026-05-12 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) (⭐ 49,983) - TypeScript - 오픈소스 영상 편집 앱
 - 2026-05-09 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) (⭐ 3,366) - Zig - Zig와 웹 UI로 데스크톱 및 모바일 앱을 만드는 도구
 - 2026-04-27 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) (⭐ 47,101) - Python - 오픈소스 음성 AI 프로젝트
+- 2026-04-18 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (⭐ 18,039) - TypeScript - HTML로 영상을 렌더링하는 에이전트 친화 도구
 - 2026-04-01 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) (⭐ 36,134) - TypeScript - 구독이나 워터마크 없이 제품 데모 영상을 만드는 오픈소스 도구
 - 2026-03-31 - [chrisryugj/kordoc](https://github.com/chrisryugj/kordoc) (⭐ 920) - TypeScript - HWP, HWPX, PDF, XLSX, DOCX를 Markdown으로 변환하는 CLI와 MCP 서버
 - 2026-03-29 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) (⭐ 92,987) - Python - 단일 이미지로 실시간 얼굴 교체 영상을 만드는 도구

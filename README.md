@@ -6,29 +6,30 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 
 ## 빠른 탐색
 
-- [자율 AI 에이전트와 실행 환경 (2)](#자율-ai-에이전트와-실행-환경-2)
+- [자율 AI 에이전트와 실행 환경 (3)](#자율-ai-에이전트와-실행-환경-3)
 - [AI 코딩 에이전트와 실행 환경 (5)](#ai-코딩-에이전트와-실행-환경-5)
-- [AI 코딩 에이전트 운영과 PR 자동화 (8)](#ai-코딩-에이전트-운영과-pr-자동화-8)
+- [AI 코딩 에이전트 운영과 PR 자동화 (10)](#ai-코딩-에이전트-운영과-pr-자동화-10)
 - [스펙 기반 개발과 계획 도구 (3)](#스펙-기반-개발과-계획-도구-3)
-- [에이전트 스킬, 프롬프트, 운영 가이드 (25)](#에이전트-스킬-프롬프트-운영-가이드-25)
-- [멀티 에이전트 프레임워크와 플랫폼 (8)](#멀티-에이전트-프레임워크와-플랫폼-8)
+- [에이전트 스킬, 프롬프트, 운영 가이드 (26)](#에이전트-스킬-프롬프트-운영-가이드-26)
+- [멀티 에이전트 프레임워크와 플랫폼 (6)](#멀티-에이전트-프레임워크와-플랫폼-6)
 - [에이전트 메모리, 컨텍스트, RAG, 코드 인텔리전스 (13)](#에이전트-메모리-컨텍스트-rag-코드-인텔리전스-13)
 - [LLM 서빙, 로컬 모델, 게이트웨이 (13)](#llm-서빙-로컬-모델-게이트웨이-13)
 - [AI 앱, 채팅 UI, 워크플로 빌더 (12)](#ai-앱-채팅-ui-워크플로-빌더-12)
 - [MCP, 브라우저/데스크톱 자동화, 에이전트 도구 (23)](#mcp-브라우저-데스크톱-자동화-에이전트-도구-23)
 - [개발 생산성/CLI 도구 (1)](#개발-생산성-cli-도구-1)
 - [디자인, UI 생성, 프로토타이핑 (9)](#디자인-ui-생성-프로토타이핑-9)
-- [프론트엔드, 웹 프레임워크, 앱 라이브러리 (14)](#프론트엔드-웹-프레임워크-앱-라이브러리-14)
-- [보안, 평가, 관측성, 품질 (8)](#보안-평가-관측성-품질-8)
-- [학습, 연구, Awesome 목록, 참고자료 (9)](#학습-연구-awesome-목록-참고자료-9)
+- [프론트엔드, 웹 프레임워크, 앱 라이브러리 (10)](#프론트엔드-웹-프레임워크-앱-라이브러리-10)
+- [보안, 평가, 관측성, 품질 (9)](#보안-평가-관측성-품질-9)
+- [학습, 연구, Awesome 목록, 참고자료 (10)](#학습-연구-awesome-목록-참고자료-10)
 - [네이티브, 미디어, 모바일/데스크톱 유틸리티 (12)](#네이티브-미디어-모바일-데스크톱-유틸리티-12)
 - [법률, 금융, 크립토, 기타 (7)](#법률-금융-크립토-기타-7)
 
 ## 목록
 
-### 자율 AI 에이전트와 실행 환경 (2)
+### 자율 AI 에이전트와 실행 환경 (3)
 
 - 2026-03-25 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (⭐ 149,360) - Python - 지속적으로 성장하도록 설계된 AI 에이전트
+- 2026-03-15 - [understudy-ai/understudy](https://github.com/understudy-ai/understudy) (⭐ 430) - TypeScript - GUI, 브라우저, 셸, 메시징 앱을 조작하는 로컬 자율 컴퓨터 사용 에이전트
 - 2026-01-28 - [openclaw/openclaw](https://github.com/openclaw/openclaw) (⭐ 371,726) - TypeScript - 개인 데이터 소유를 지향하는 크로스플랫폼 AI 어시스턴트
 
 ### AI 코딩 에이전트와 실행 환경 (5)
@@ -39,16 +40,18 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 - 2026-01-26 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) (⭐ 57,711) - TypeScript - 오픈코드 계열 에이전트 하네스
 - 2025-12-04 - [anomalyco/opencode](https://github.com/anomalyco/opencode) (⭐ 159,993) - TypeScript - 오픈소스 코딩 에이전트
 
-### AI 코딩 에이전트 운영과 PR 자동화 (8)
+### AI 코딩 에이전트 운영과 PR 자동화 (10)
 
 - 2026-05-06 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (⭐ 50,612) - TypeScript - Claude와 Codex 연동을 지원하는 멀티 에이전트 오케스트레이션 플랫폼
 - 2026-04-13 - [multica-ai/multica](https://github.com/multica-ai/multica) (⭐ 28,236) - TypeScript - 코딩 에이전트를 팀원처럼 배정하고 추적하는 관리형 에이전트 플랫폼
 - 2026-03-30 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) (⭐ 65,264) - TypeScript - 업무용 에이전트를 관리하는 오픈소스 앱
 - 2026-03-26 - [jonwiggins/optio](https://github.com/jonwiggins/optio) (⭐ 956) - TypeScript - 작업에서 병합 PR까지 AI 코딩 에이전트 워크플로를 오케스트레이션하는 도구
 - 2026-03-17 - [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) (⭐ 7,025) - TypeScript - 병렬 코딩 에이전트를 계획, 실행, 리뷰, 충돌 해결까지 오케스트레이션하는 도구
+- 2026-03-15 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) (⭐ 6,657) - TypeScript - pi 코딩 에이전트를 위한 자율 실험과 최적화 루프 확장
 - 2026-03-08 - [openai/symphony](https://github.com/openai/symphony) (⭐ 23,727) - Elixir - 자율 구현 실행을 격리해 팀이 코딩 에이전트 작업을 관리하도록 돕는 도구
 - 2026-02-18 - [klawsh/klaw.sh](https://github.com/klawsh/klaw.sh) (⭐ 625) - Go - AI 에이전트를 kubectl 스타일로 다루는 오케스트레이션 도구
 - 2026-01-05 - [gastownhall/gastown](https://github.com/gastownhall/gastown) (⭐ 15,162) - Go - 멀티 에이전트 작업 공간 관리자
+- 2025-09-19 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) (⭐ 7,566) - TypeScript - GitHub PR과 이슈에서 Claude Code를 실행하는 자동화 액션
 
 ### 스펙 기반 개발과 계획 도구 (3)
 
@@ -56,14 +59,15 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 - 2026-04-30 - [gszhangwei/open-spdd](https://github.com/gszhangwei/open-spdd) (⭐ 482) - Go - SPDD용 AI 코딩 어시스턴트 명령 템플릿 관리자
 - 2026-03-22 - [github/spec-kit](https://github.com/github/spec-kit) (⭐ 98,804) - Python - 스펙 기반 개발을 시작하기 위한 GitHub 도구 모음
 
-### 에이전트 스킬, 프롬프트, 운영 가이드 (25)
+### 에이전트 스킬, 프롬프트, 운영 가이드 (26)
 
-#### 스킬 컬렉션 / Awesome 목록 (8)
+#### 스킬 컬렉션 / Awesome 목록 (9)
 
 - 2026-04-25 - [mattpocock/skills](https://github.com/mattpocock/skills) (⭐ 80,188) - Shell - 실무 엔지니어링에 바로 쓰기 좋은 에이전트 스킬 모음
 - 2026-04-25 - [cloudflare/skills](https://github.com/cloudflare/skills) (⭐ 1,527) - Unknown - Cloudflare에서 에이전트가 개발 작업을 수행하도록 돕는 스킬 모음
 - 2026-04-11 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (⭐ 41,287) - Shell - AI 코딩 에이전트를 위한 프로덕션급 엔지니어링 스킬 모음
 - 2026-04-04 - [anthropics/skills](https://github.com/anthropics/skills) (⭐ 133,888) - Python - Anthropic의 공개 Agent Skills 저장소
+- 2026-03-12 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (⭐ 97,032) - Shell - 여러 전문 역할의 AI 에이전트 페르소나와 설치 스크립트 모음
 - 2026-02-16 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) (⭐ 37,477) - Python - 여러 AI 코딩 도구에서 설치 가능한 대규모 에이전트 스킬 모음
 - 2026-01-16 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) (⭐ 26,551) - JavaScript - Vercel의 공식 에이전트 스킬 모음
 - 2026-01-07 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) (⭐ 59,727) - Python - Claude AI 워크플로를 커스터마이즈하기 위한 스킬과 자료 모음
@@ -95,16 +99,14 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 - 2026-02-04 - [obra/superpowers](https://github.com/obra/superpowers) (⭐ 190,242) - Shell - 에이전트형 개발 방법론과 스킬 프레임워크
 - 2025-02-24 - [TanStack/cli](https://github.com/TanStack/cli) (⭐ 1,254) - TypeScript - 프로젝트 스캐폴딩, MCP 서버, 에이전트 스킬 설치를 지원하는 TanStack CLI
 
-### 멀티 에이전트 프레임워크와 플랫폼 (8)
+### 멀티 에이전트 프레임워크와 플랫폼 (6)
 
 - 2026-03-29 - [microsoft/autogen](https://github.com/microsoft/autogen) (⭐ 58,020) - Python - 에이전트형 AI 애플리케이션을 만드는 프로그래밍 프레임워크
 - 2026-03-29 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) (⭐ 25,066) - Python - 관찰하고 이해하며 신뢰할 수 있는 에이전트를 만들고 실행하는 프레임워크
 - 2026-03-25 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) (⭐ 2,856) - Rust - 자율 AI 에이전트 반복 작업을 오케스트레이션하는 구현체
 - 2026-03-19 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) (⭐ 51,373) - Python - 역할 기반 자율 에이전트들이 협업하도록 만드는 프레임워크
 - 2026-03-12 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (⭐ 67,592) - Python - 조사, 코딩, 제작을 수행하는 장기 작업용 슈퍼 에이전트 하네스
-- 2026-03-12 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (⭐ 97,032) - Shell - 여러 전문 역할의 AI 에이전트를 모은 AI 에이전시 구성
 - 2026-03-10 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (⭐ 136,698) - Python - 에이전트 엔지니어링을 위한 프레임워크
-- 2026-01-06 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) (⭐ 4,520) - HTML - 에이전트형 AI 패턴을 모은 목록
 
 ### 에이전트 메모리, 컨텍스트, RAG, 코드 인텔리전스 (13)
 
@@ -224,24 +226,20 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 - 2025-12-20 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) (⭐ 7,588) - TypeScript - 정교하게 만든 애니메이션 아이콘 모음
 - 2025-12-15 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) (⭐ 7,194) - TypeScript - 에이전트가 사용할 수 있도록 UI 요소를 복사하는 도구
 
-### 프론트엔드, 웹 프레임워크, 앱 라이브러리 (14)
+### 프론트엔드, 웹 프레임워크, 앱 라이브러리 (10)
 
 - 2026-05-13 - [open-circle/valibot](https://github.com/open-circle/valibot) (⭐ 8,635) - TypeScript - 구조화된 데이터를 검증하는 모듈형 타입 안전 스키마 라이브러리
-- 2026-03-15 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) (⭐ 6,657) - TypeScript - pi를 위한 자율 실험 루프 확장 도구
-- 2026-03-15 - [understudy-ai/understudy](https://github.com/understudy-ai/understudy) (⭐ 430) - TypeScript - 사용자 동작을 관찰한 뒤 수행하는 에이전트 도구
 - 2026-01-26 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) (⭐ 39,292) - JavaScript - 기억에 남는 웹사이트를 위한 애니메이션 React 컴포넌트 모음
 - 2026-01-07 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) (⭐ 21,266) - TypeScript - React 성능 문제를 스캔하고 수정하는 도구
-- 2025-12-20 - [cloudflare/telescope](https://github.com/cloudflare/telescope) (⭐ 282) - TypeScript - 브라우저 간 웹 성능을 테스트하는 에이전트
 - 2025-11-12 - [palantir/blueprint](https://github.com/palantir/blueprint) (⭐ 21,734) - TypeScript - 웹용 React UI 툴킷
 - 2025-11-03 - [3ru/eslint-plugin-baseline-js](https://github.com/3ru/eslint-plugin-baseline-js) (⭐ 232) - TypeScript - JavaScript Baseline 준수를 검사하는 ESLint 플러그인
-- 2025-09-19 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) (⭐ 7,566) - TypeScript - GitHub Actions에서 Claude Code를 활용하기 위한 액션
 - 2025-08-30 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) (⭐ 1,613) - TypeScript - JavaScript 미니파이어들의 성능을 비교하는 벤치마크
 - 2025-05-29 - [AlexSergey/rockpack](https://github.com/AlexSergey/rockpack) (⭐ 682) - JavaScript - SSR, 번들링, 린팅 등을 포함한 경량 React 앱 설정 도구
 - 2025-04-22 - [fastify/fastify-vite](https://github.com/fastify/fastify-vite) (⭐ 1,122) - JavaScript - Fastify와 Vite를 연동하는 플러그인
 - 2025-02-25 - [e18e/e18e](https://github.com/e18e/e18e) (⭐ 750) - JavaScript - JavaScript 생태계의 의존성 정리와 성능 개선을 위한 커뮤니티 프로젝트
 - 2025-01-21 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) (⭐ 47,985) - JavaScript - HTML만으로 강력한 상호작용을 구현하는 웹 도구
 
-### 보안, 평가, 관측성, 품질 (8)
+### 보안, 평가, 관측성, 품질 (9)
 
 - 2026-05-13 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) (⭐ 2,528) - TypeScript - 코딩 에이전트로 코드베이스 보안 취약점을 찾는 보안 하네스
 - 2026-04-20 - [langfuse/langfuse](https://github.com/langfuse/langfuse) (⭐ 27,173) - TypeScript - LLM 관측성, 평가, 프롬프트 관리, 데이터셋을 다루는 LLM 엔지니어링 플랫폼
@@ -249,10 +247,11 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 - 2026-03-04 - [millionco/react-doctor](https://github.com/millionco/react-doctor) (⭐ 9,452) - TypeScript - 에이전트가 작성한 React 코드의 문제를 잡는 도구
 - 2026-02-23 - [robinebers/openusage](https://github.com/robinebers/openusage) (⭐ 2,407) - JavaScript - AI 구독과 사용량을 추적해 낭비를 줄이는 오픈소스 도구
 - 2026-01-08 - [tobilg/ai-observer](https://github.com/tobilg/ai-observer) (⭐ 221) - Go - AI 코딩 어시스턴트를 위한 로컬 관측성 도구
+- 2025-12-20 - [cloudflare/telescope](https://github.com/cloudflare/telescope) (⭐ 282) - TypeScript - 브라우저별 웹 성능 지표와 로딩 관측 데이터를 수집하는 테스트 도구
 - 2025-11-27 - [requestly/requestly](https://github.com/requestly/requestly) (⭐ 6,700) - TypeScript - HTTP 요청을 가로채고 모킹하는 오픈소스 도구
 - 2025-06-01 - [tiagozip/cap](https://github.com/tiagozip/cap) (⭐ 6,353) - JavaScript - 개인정보 보호를 우선하는 셀프호스팅 CAPTCHA
 
-### 학습, 연구, Awesome 목록, 참고자료 (9)
+### 학습, 연구, Awesome 목록, 참고자료 (10)
 
 - 2026-05-08 - [facebookresearch/ProgramBench](https://github.com/facebookresearch/ProgramBench) (⭐ 567) - Python - 언어 모델이 프로그램을 처음부터 재구성할 수 있는지 평가하는 벤치마크
 - 2026-04-28 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) (⭐ 501,315) - Markdown - 기술을 직접 다시 만들어보며 프로그래밍을 익히는 학습 자료 모음
@@ -262,6 +261,7 @@ haxlys 계정에서 2025년 이후 별표한 레포 중, AI 개발과 에이전�
 - 2026-03-20 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) (⭐ 60,373) - TypeScript - Bash로 Claude Code와 비슷한 에이전트 하네스를 처음부터 만드는 학습 자료
 - 2026-03-20 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) (⭐ 79,307) - Unknown - LLM을 배우기 위한 로드맵과 Colab 자료
 - 2026-03-13 - [public-apis/public-apis](https://github.com/public-apis/public-apis) (⭐ 434,922) - Python - 무료 공개 API를 모은 목록
+- 2026-01-06 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) (⭐ 4,520) - HTML - 에이전트형 AI 패턴과 참고 자료를 모은 목록
 - 2025-11-28 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) (⭐ 2,359) - Unknown - Gemini CLI 사용 팁 모음
 
 ### 네이티브, 미디어, 모바일/데스크톱 유틸리티 (12)
